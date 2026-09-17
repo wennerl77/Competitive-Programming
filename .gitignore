@@ -1,0 +1,14 @@
+# Ignora tudo, para evitar commitar executaveis
+*
+
+# Permite .gitignore
+!.gitignore
+
+# Permite diretórios
+!*/
+
+# Permite arquivos .cpp
+!*.cpp
+
+# Permite tasks.json do vscode
+!tasks.json
